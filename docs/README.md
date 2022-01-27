@@ -1,7 +1,7 @@
 ---
 home: true
 lang: en-US
-heroImage: /WechatIMG2.jpeg
+heroImage: /1527df1ff09dca815ea5c1c47a89f384.gif
 heroText: ZARTRT
 tagline: Hero‘s come back!!!
 actionText: 搞快点，上车 →
